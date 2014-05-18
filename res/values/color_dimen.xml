@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="table_list_line_color">#ffbfbfbf</drawable>
+    <drawable name="table_grid_line_color">#ffbfbfbf</drawable>
+
+    <dimen name="table_list_line_dimen">0.5dp</dimen>
+    <dimen name="table_grid_line_dimen_ver">0.5dp</dimen>
+    <dimen name="table_grid_line_dimen_hor">0.5dp</dimen>
+
+</resources>
